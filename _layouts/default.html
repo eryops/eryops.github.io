@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'sv' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="icon" href="/favicon.png">
+  <style>
+    :root { --bg: #fdfcf8; --text: #1f2933; --muted: #52606d; --accent: #2f6f8f; --line: #d9dee3; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #15191d; --text: #e9edf1; --muted: #a9b4bf; --accent: #7cc0e0; --line: #3a434c; }
+    }
+    body { margin: 0; background: var(--bg); color: var(--text);
+      font: 18px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    main { max-width: 720px; margin: 0 auto; padding: 32px 16px 48px; overflow-wrap: anywhere; }
+    a { color: var(--accent); }
+    h2 { margin-top: 40px; }
+    table { border-collapse: collapse; width: 100%; font-size: 16px; display: block; overflow-x: auto; }
+    th, td { border: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
+    hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0; }
+    .back { font-size: 16px; }
+  </style>
+</head>
+<body>
+<main>
+  <p class="back"><a href="/">← DayPlot</a></p>
+  {{ content }}
+</main>
+</body>
+</html>

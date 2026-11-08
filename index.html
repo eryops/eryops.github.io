@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DayPlot – Visuell kalender</title>
+  <meta name="description" content="DayPlot visar din Google Kalender med bilder, alarm och timer. En tydlig dag för hela familjen.">
+  <link rel="icon" href="favicon.png">
+  <style>
+    :root { --bg: #fdfcf8; --text: #1f2933; --muted: #52606d; --accent: #2f6f8f; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #15191d; --text: #e9edf1; --muted: #a9b4bf; --accent: #7cc0e0; }
+    }
+    body { margin: 0; background: var(--bg); color: var(--text);
+      font: 18px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    main { max-width: 640px; margin: 0 auto; padding: 32px 16px 48px; }
+    header { display: flex; align-items: center; gap: 16px; }
+    header img { width: 72px; height: 72px; border-radius: 16px; }
+    h1 { margin: 0; font-size: 32px; }
+    h2 { margin-top: 40px; font-size: 22px; }
+    .tagline { margin: 4px 0 0; color: var(--muted); }
+    a { color: var(--accent); }
+    footer { margin-top: 48px; color: var(--muted); font-size: 16px; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="icon.png" alt="DayPlots ikon">
+    <div>
+      <h1>DayPlot</h1>
+      <p class="tagline">Visuell kalender för barn och föräldrar</p>
+    </div>
+  </header>
+
+  <p>DayPlot visar din Google Kalender på ett lugnt och tydligt sätt. Varje händelse får en bild,
+    så att dagen går att förstå med en blick.</p>
+  <ul>
+    <li>Bilder till händelserna, till exempel en fotboll för ”Fotboll”.</li>
+    <li>Påminnelser och alarm, så att man kommer i tid.</li>
+    <li>Timer som visar hur lång tid som är kvar.</li>
+  </ul>
+  <p>DayPlot är ingen ny kalender. Allt sparas i din egen Google Kalender.</p>
+
+  <h2>Integritet</h2>
+  <!-- PRIVACY-LINK: replace with a link to privacy/ once the policy is published -->
+  <p>Integritetspolicyn kommer snart.</p>
+
+  <h2>Kontakt</h2>
+  <p>Frågor om appen? Mejla <a href="mailto:chill-mama-app@googlegroups.com">chill-mama-app@googlegroups.com</a>.</p>
+
+  <section lang="en">
+    <h2>In English</h2>
+    <p>DayPlot is a visual calendar app for Android that shows your Google Calendar with pictures,
+      reminders, alarms and timers, made for children and parents. Your events stay in your own
+      Google Calendar. Contact: <a href="mailto:chill-mama-app@googlegroups.com">chill-mama-app@googlegroups.com</a>.</p>
+  </section>
+
+  <footer>DayPlot görs av Chill Mama Apps.</footer>
+</main>
+</body>
+</html>

@@ -8,7 +8,7 @@ permalink: /privacy/
 
 [Read in English](#english)
 
-Senast uppdaterad: 8 november 2026
+Senast uppdaterad: 10 november 2026
 
 DayPlot är en bildkalender för barn och familjer som bygger på Google Kalender.
 Den här policyn beskriver vilka uppgifter appen använder, var de sparas och vad du kan göra.
@@ -95,7 +95,12 @@ egna skydd, till exempel skärmlås.
 
 ## Ta bort dina uppgifter
 
-- **Logga ut** i appen för att ta bort inloggningen från telefonen.
+- **Rensa data och logga ut** i appen (Inställningar, under Google-konto). Det tar bort
+  DayPlots sparade inställningar och personer, både i appens dolda mapp i din Google Drive och
+  i telefonen. Sedan tas appens åtkomst till ditt Google-konto bort och du loggas ut. Dina
+  händelser i Google Kalender rörs inte. Har du DayPlot på flera telefoner med samma konto,
+  gör det på alla, annars sparar en annan telefon sina inställningar i Drive igen.
+- **Logga ut** i appen för att bara ta bort inloggningen från telefonen.
 - **Avinstallera** appen för att ta bort allt som bara finns på telefonen.
 - **Ta bort appens åtkomst** till ditt Google-konto på
   [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
@@ -140,7 +145,7 @@ Frågor om integritet: chill-mama-app@googlegroups.com
 
 # DayPlot – Privacy Policy
 
-Last updated: 8 November 2026
+Last updated: 10 November 2026
 
 DayPlot is a visual calendar for kids and families, built on Google Calendar.
 This policy explains what data the app uses, where it is kept and what you can do.
@@ -226,7 +231,12 @@ protection, such as the screen lock.
 
 ## Deleting your data
 
-- **Sign out** in the app to remove the sign-in from the phone.
+- **Clear data and sign out** in the app (Settings, under Google account). This deletes
+  DayPlot's saved settings and persons, both in the app's hidden folder in your Google Drive and
+  on the phone. Then the app's access to your Google account is removed and you are signed out.
+  Your events in Google Calendar are not touched. If you use DayPlot on several phones with the
+  same account, do it on all of them, or another phone saves its settings to Drive again.
+- **Sign out** in the app to only remove the sign-in from the phone.
 - **Uninstall** the app to remove everything that is only on the phone.
 - **Remove the app's access** to your Google account at
   [myaccount.google.com/permissions](https://myaccount.google.com/permissions).

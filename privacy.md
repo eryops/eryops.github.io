@@ -8,7 +8,7 @@ permalink: /privacy/
 
 [Read in English](#english)
 
-Senast uppdaterad: 10 november 2026
+Senast uppdaterad: 16 november 2026
 
 DayPlot är en bildkalender för barn och familjer som bygger på Google Kalender.
 Den här policyn beskriver vilka uppgifter appen använder, var de sparas och vad du kan göra.
@@ -93,6 +93,12 @@ inklusive kraven på begränsad användning (Limited Use).
 All trafik till Google går krypterat (HTTPS). Uppgifter på telefonen skyddas av telefonens
 egna skydd, till exempel skärmlås.
 
+## Hur länge uppgifter sparas
+
+Vi lagrar ingen Google-data hos oss. Inställningar och personer finns kvar i appens dolda mapp
+i din Google Drive tills du tar bort dem (se nedan). Det som bara finns på telefonen finns kvar
+tills du loggar ut, rensar data eller avinstallerar appen.
+
 ## Ta bort dina uppgifter
 
 - **Rensa data och logga ut** i appen (Inställningar, under Google-konto). Det tar bort
@@ -145,7 +151,7 @@ Frågor om integritet: chill-mama-app@googlegroups.com
 
 # DayPlot – Privacy Policy
 
-Last updated: 10 November 2026
+Last updated: 16 November 2026
 
 DayPlot is a visual calendar for kids and families, built on Google Calendar.
 This policy explains what data the app uses, where it is kept and what you can do.
@@ -228,6 +234,12 @@ including the Limited Use requirements.
 
 All traffic to Google is encrypted (HTTPS). Data on the phone is protected by the phone's own
 protection, such as the screen lock.
+
+## How long data is kept
+
+We do not store any Google data ourselves. Settings and persons stay in the app's hidden folder
+in your Google Drive until you delete them (see below). What is only on the phone stays until
+you sign out, clear data or uninstall the app.
 
 ## Deleting your data
 

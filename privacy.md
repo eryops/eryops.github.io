@@ -8,7 +8,7 @@ permalink: /privacy/
 
 [Read in English](#english)
 
-Senast uppdaterad: 16 november 2026
+Senast uppdaterad: 24 november 2026
 
 DayPlot är en bildkalender för barn och familjer som bygger på Google Kalender.
 Den här policyn beskriver vilka uppgifter appen använder, var de sparas och vad du kan göra.
@@ -46,9 +46,9 @@ Inget går via någon annan server.
 - **Händelser** du skapar eller ändrar i DayPlot sparas i Google Kalender, som vanliga händelser.
   DayPlot lägger också till lite egen information i händelsen, till exempel vilken bild
   (ikon) den har och vilka personer den gäller.
-- **Inställningar och personer** (till exempel namn och färger på personerna i appen)
-  sparas i appens dolda mapp i din Google Drive. Det gör att de finns kvar om du byter
-  telefon eller installerar om appen.
+- **Inställningar, personer och mallar** (till exempel namn och färger på personerna i appen,
+  och händelser du sparat som mall) sparas i appens dolda mapp i din Google Drive. Det gör att
+  de finns kvar om du byter telefon eller installerar om appen.
 
 Det som sparas hos Google omfattas av [Googles integritetspolicy](https://policies.google.com/privacy).
 
@@ -61,7 +61,7 @@ Följande sparas bara i telefonen och skickas aldrig någonstans:
 - Larm och påminnelser.
 - Timer och nedräkning.
 - Det som visas i hemskärmswidgeten.
-- En kopia av inställningar och personer, så att appen startar snabbt och fungerar utan nät.
+- En kopia av inställningar, personer och mallar, så att appen startar snabbt och fungerar utan nät.
 - Inloggningsuppgiften (åtkomsttoken) från Google.
 
 ### Kalendrar i telefonen (bara om du slår på det)
@@ -95,14 +95,14 @@ egna skydd, till exempel skärmlås.
 
 ## Hur länge uppgifter sparas
 
-Vi lagrar ingen Google-data hos oss. Inställningar och personer finns kvar i appens dolda mapp
+Vi lagrar ingen Google-data hos oss. Inställningar, personer och mallar finns kvar i appens dolda mapp
 i din Google Drive tills du tar bort dem (se nedan). Det som bara finns på telefonen finns kvar
 tills du loggar ut, rensar data eller avinstallerar appen.
 
 ## Ta bort dina uppgifter
 
 - **Rensa data och logga ut** i appen (Inställningar, under Google-konto). Det tar bort
-  DayPlots sparade inställningar och personer, både i appens dolda mapp i din Google Drive och
+  DayPlots sparade inställningar, personer och mallar, både i appens dolda mapp i din Google Drive och
   i telefonen. Sedan tas appens åtkomst till ditt Google-konto bort och du loggas ut. Dina
   händelser i Google Kalender rörs inte. Har du DayPlot på flera telefoner med samma konto,
   gör det på alla, annars sparar en annan telefon sina inställningar i Drive igen.
@@ -151,7 +151,7 @@ Frågor om integritet: chill-mama-app@googlegroups.com
 
 # DayPlot – Privacy Policy
 
-Last updated: 16 November 2026
+Last updated: 24 November 2026
 
 DayPlot is a visual calendar for kids and families, built on Google Calendar.
 This policy explains what data the app uses, where it is kept and what you can do.
@@ -189,8 +189,9 @@ Nothing goes through any other server.
 - **Events** you create or change in DayPlot are saved in Google Calendar as normal events.
   DayPlot also adds a little of its own information to the event, such as its picture (icon)
   and which persons it is for.
-- **Settings and persons** (e.g. names and colours of the persons in the app) are saved in the
-  app's hidden folder in your Google Drive, so they are kept if you change phones or reinstall.
+- **Settings, persons and templates** (e.g. names and colours of the persons in the app, and
+  events you saved as templates) are saved in the app's hidden folder in your Google Drive, so
+  they are kept if you change phones or reinstall.
 
 What is stored with Google is covered by [Google's Privacy Policy](https://policies.google.com/privacy).
 
@@ -203,7 +204,7 @@ The following is stored only on the phone and never sent anywhere:
 - Alarms and reminders.
 - Timer and countdown.
 - What the home screen widget shows.
-- A copy of settings and persons, so the app starts fast and works offline.
+- A copy of settings, persons and templates, so the app starts fast and works offline.
 - The sign-in token from Google.
 
 ### Calendars on the phone (only if you turn it on)
@@ -237,14 +238,14 @@ protection, such as the screen lock.
 
 ## How long data is kept
 
-We do not store any Google data ourselves. Settings and persons stay in the app's hidden folder
+We do not store any Google data ourselves. Settings, persons and templates stay in the app's hidden folder
 in your Google Drive until you delete them (see below). What is only on the phone stays until
 you sign out, clear data or uninstall the app.
 
 ## Deleting your data
 
 - **Clear data and sign out** in the app (Settings, under Google account). This deletes
-  DayPlot's saved settings and persons, both in the app's hidden folder in your Google Drive and
+  DayPlot's saved settings, persons and templates, both in the app's hidden folder in your Google Drive and
   on the phone. Then the app's access to your Google account is removed and you are signed out.
   Your events in Google Calendar are not touched. If you use DayPlot on several phones with the
   same account, do it on all of them, or another phone saves its settings to Drive again.
